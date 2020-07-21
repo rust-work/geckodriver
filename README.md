@@ -26,8 +26,10 @@ rustflags = ["-C", "target-feature=+crt-static"]
 rustflags = ["-C", "target-feature=+crt-static"]
 ```
 5.build
+```
 cd mozilla-central\testing\geckodriver
 rustup default stable-x86_64-pc-windows-msvc
 cargo build --release
 rustup default stable-i686-pc-windows-msvc
 cargo build --release
+```
