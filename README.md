@@ -1,5 +1,5 @@
 # geckodriver
-geckodriver source code from mozila official website
+geckodriver source code from mozilla official website
 
 # mozilla-central
 https://hg.mozilla.org/mozilla-central/file/tip/testing
